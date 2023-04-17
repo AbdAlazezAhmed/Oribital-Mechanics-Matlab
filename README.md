@@ -72,8 +72,8 @@ with optional terms being :
 # Progress
 ### Todo
 
-- [ ] Clean the class code 2022-02-10  
-- [ ] Improve Orbit Transfer code, use the method in chapter 6, and write its Documentation 2022-02-20   
+- [ ] Clean the class code
+- [ ] Improve Orbit Transfer code, use the method in chapter 6, and write its Documentation
 
 ### Done ✓
 
